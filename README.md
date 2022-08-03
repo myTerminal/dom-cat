@@ -1,15 +1,12 @@
 # dom-cat
 
 [![npm version](https://badge.fury.io/js/dom-cat.svg)](https://badge.fury.io/js/dom-cat)
-[![npm downloads](https://img.shields.io/npm/dt/dom-cat.svg)](https://www.npmjs.com/package/dom-cat)  
+[![npm downloads](https://img.shields.io/npm/dt/dom-cat.svg)](https://www.npmjs.com/package/dom-cat)
+[![License](https://img.shields.io/github/license/myTerminal/dom-cat.svg)](https://opensource.org/licenses/MIT)  
 [![Build Status](https://travis-ci.org/myTerminal/dom-cat.svg?branch=master)](https://travis-ci.org/myTerminal/dom-cat)
 [![Code Climate](https://codeclimate.com/github/myTerminal/dom-cat.png)](https://codeclimate.com/github/myTerminal/dom-cat)
 [![js-myterminal-style](https://img.shields.io/badge/code%20style-myterminal-blue.svg)](https://www.npmjs.com/package/eslint-config/myterminal)
 [![Coverage Status](https://img.shields.io/coveralls/myTerminal/dom-cat.svg)](https://coveralls.io/r/myTerminal/dom-cat?branch=master)  
-[![Dependency Status](https://david-dm.org/myTerminal/dom-cat.svg)](https://david-dm.org/myTerminal/dom-cat)
-[![devDependency Status](https://david-dm.org/myTerminal/dom-cat/dev-status.svg)](https://david-dm.org/myTerminal/dom-cat#info=devDependencies)
-[![peer Dependency Status](https://david-dm.org/myTerminal/dom-cat/peer-status.svg)](https://david-dm.org/myTerminal/dom-cat#info=peerDependencies)  
-[![License](https://img.shields.io/github/license/myTerminal/dom-cat.svg)](https://opensource.org/licenses/MIT)  
 [![NPM](https://nodei.co/npm/dom-cat.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/dom-cat/)
 
 A minimal library to print and log text to DOM elements
