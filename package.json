@@ -1,6 +1,6 @@
 {
   "name": "dom-cat",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "description": "A minimal library to print and log text to DOM elements",
   "main": "build/scripts/dom-cat.js",
   "files": [
